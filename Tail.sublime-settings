@@ -1,0 +1,23 @@
+{
+    // ------------------------------------------------------------------------
+    // enabled
+    //
+    // If, for some reason, you'd like to disable Tail entirely, set "enabled"
+    // to false. Defaults to true.
+    "enabled": true,
+
+    // ------------------------------------------------------------------------
+    // log_level
+    //
+    // Log level for Tail operations. All messages will be displayed on the
+    // Sublime Text console. Following levels are available:
+    //
+    //   0, "error"             Errors.
+    //   1, "warn", "warning"   Warnings.
+    //   2, "notice"            Notices. This is the default logging level.
+    //   3, "info"              Informational messages.
+    //   4, "debug"             Debugging messages.
+    //   5, "trace"             Tracing. Using this level might noticeably
+    //                          slow down plugin.
+    "log_level": "notice"
+}
