@@ -1,5 +1,7 @@
 # Tail for Sublime Text
 
+[![Join the chat at https://gitter.im/codelibra/SublimeLogTail](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/codelibra/SublimeLogTail?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://secure.travis-ci.org/vifo/SublimeTail.png)](http://travis-ci.org/vifo/SublimeTail)
 
 [Tail](http://goo.gl/Pvbmrz) files in [Sublime Text 2](http://www.sublimetext.com/2) and [Sublime Text 3](http://www.sublimetext.com/3).
